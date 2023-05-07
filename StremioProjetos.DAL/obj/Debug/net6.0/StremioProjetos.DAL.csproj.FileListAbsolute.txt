@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\bin\Debug\net6.0\StremioProjetos.DAL.deps.json
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\bin\Debug\net6.0\StremioProjetos.DAL.runtimeconfig.json
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\bin\Debug\net6.0\StremioProjetos.DAL.dll
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\bin\Debug\net6.0\StremioProjetos.DAL.pdb
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.dll
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\refint\StremioProjetos.DAL.dll
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.pdb
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.genruntimeconfig.cache
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\ref\StremioProjetos.DAL.dll
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\bin\Debug\net6.0\StremioProjetos.MODEL.dll
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\bin\Debug\net6.0\StremioProjetos.MODEL.pdb
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.DAL\obj\Debug\net6.0\StremioProjetos.DAL.csproj.CopyComplete

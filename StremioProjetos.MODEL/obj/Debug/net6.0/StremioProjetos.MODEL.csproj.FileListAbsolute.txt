@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\bin\Debug\net6.0\StremioProjetos.MODEL.deps.json
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\bin\Debug\net6.0\StremioProjetos.MODEL.dll
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\bin\Debug\net6.0\StremioProjetos.MODEL.pdb
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\StremioProjetos.MODEL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\StremioProjetos.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\StremioProjetos.MODEL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\StremioProjetos.MODEL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\StremioProjetos.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\StremioProjetos.MODEL.dll
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\refint\StremioProjetos.MODEL.dll
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\StremioProjetos.MODEL.pdb
+C:\Users\Admin\source\repos\StremioProjetos\StremioProjetos.MODEL\obj\Debug\net6.0\ref\StremioProjetos.MODEL.dll
